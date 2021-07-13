@@ -1,6 +1,5 @@
 #이진 탐색 구현
 def solution(L, x):
-    idx=-1
     lower=0
     upper=len(L)-1
     
