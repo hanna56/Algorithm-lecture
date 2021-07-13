@@ -1,3 +1,4 @@
+#피보나치 순열 구현
 def solution(x):
     if x==0:
         return 0
