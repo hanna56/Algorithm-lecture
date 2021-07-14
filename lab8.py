@@ -1,4 +1,4 @@
-
+# 연결 리스트 노드 삭제
 def popAt(self, pos):
         if pos < 1 or pos > self.nodeCount:
             raise IndexError
